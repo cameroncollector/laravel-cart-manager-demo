@@ -26,8 +26,6 @@ composer run-script post-root-package-install
 ```
 composer install
 composer run-script post-create-project-cmd
-npm install
-npm run dev
 php artisan storage:link
 php artisan migrate --seed
 ```
