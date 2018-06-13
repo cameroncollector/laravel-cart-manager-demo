@@ -81,7 +81,7 @@
 
                         <a
                             class="no-underline hover:underline text-grey-darker text-sm"
-                            href="http://latest.local/docs"
+                            href="https://docs.freshbits.in/laravel-cart-manager"
                             target="_blank"
                         >
                             Documentation
