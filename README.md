@@ -12,7 +12,7 @@ You can also download and run this app locally.
 
 1) Clone the repo:
 ```
-git clone https://github.com/laravel-factory/sample-app.git [DIRECTORY_NAME]
+git clone https://github.com/freshbitsweb/laravel-cart-manager-demo.git [DIRECTORY_NAME]
 ```
 
 2) Create `.env` file from the example file:
